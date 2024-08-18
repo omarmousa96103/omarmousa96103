@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on cybersecurity projects, API fuzzing, or anything that involves making the digital world safer.
 
-📫 How to reach me: Feel free to connect with me through my GitHub profile or [insert your preferred contact method here].
+📫 How to reach me: Feel free to connect with me through my GitHub profile or email me @ [omarmousa96103@gmail.com]
 
 😄 Pronouns: He/Him
 
