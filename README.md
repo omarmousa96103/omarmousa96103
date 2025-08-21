@@ -2,7 +2,7 @@
 
 👀 I’m interested in cybersecurity, exploring the depths of digital defense, and learning how to keep systems secure.
 
-🌱 I’m currently a 21-year-old Computer Science student at the Lebanese University, diving deep into cybersecurity projects and constantly expanding my skills in this field.
+🌱 I’m currently a 22-year-old Computer Science student at the Lebanese University, diving deep into cybersecurity projects and constantly expanding my skills in this field.
 
 💞️ I’m looking to collaborate on cybersecurity projects, API fuzzing, or anything that involves making the digital world safer.
 
